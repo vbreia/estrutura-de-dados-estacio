@@ -1,8 +1,2 @@
-
-
-
-# Ignore VS Code settings
 .vscode/
-
-# Ignore log files
 *.log
