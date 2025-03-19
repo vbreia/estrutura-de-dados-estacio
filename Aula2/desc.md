@@ -13,7 +13,11 @@
 [Mais informações](./mod1/desc.md)
 
 ### Módulo 2: Bibliotecas Padrão C
-- 
+- O que são bibliotecas padrão
+- Principais bibliotecas padrão em C
+- Como incluir bibliotecas no programa
+- Como usar funções de bibliotecas padrão
+- Funções e procedimentos
 
 [Mais informações](./mod2/desc.md)
 
