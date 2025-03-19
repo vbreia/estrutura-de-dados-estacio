@@ -1,9 +1,13 @@
-# Aula 1: Estrutura de Dados
+# Disciplina: Estrutura de Dados
+
+## Aula 1: Estrutura de Dados Heterogêneas
+
 ## Faculdade: Estácio de Sá
 
 ## Resumo dos Módulos
 
 ### Módulo 1: Uso de Ponteiros e Manipulação de Memória
+
 - Como alocar memória.
 - Quais são os ponteiros variáveis.
 
