@@ -5,3 +5,6 @@ Este repositório contém exercícios e anotações práticas da disciplina Estr
 
 ### Aula 1: Estrutura de Dados Heterogeneos 
 - [Mais informações](./Aula1/desc.md)
+
+### Aula 2: Modularização
+- [Mais informações](./Aula2/desc.md)
